@@ -1,66 +1,80 @@
-<h1 align="center">Hi 👋, I'm Sekhar Chaudhary</h1>
-<h3 align="center">🚀 Full Stack Web Developer | IT Entrepreneur</h3>
+<!-- 🔥 Animated Intro -->
+
+<h1 align="center">
+  Hi 👋, I'm Sekhar Chaudhary
+</h1>
+
+<h3 align="center">
+🚀 Full Stack Architect | Startup Founder | Building Templaara
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=code-sekhar&label=Profile%20views&color=0e75b6&style=flat" alt="code-sekhar" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Startup+Builder;SaaS+Architect;Tech+Entrepreneur&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🧠 Who Am I
 
-- 🔭 I’m currently working on **Templaara (Envato-like Marketplace)**
-- 🌱 I’m learning **Advanced System Design & SaaS Scaling**
-- 💡 Building my own **IT Brand & Startup Ecosystem**
-- 🎯 Goal: Build a **Global Tech Company**
-- ⚡ Fun fact: I mix **Spirituality + Technology**
-
----
-
-## 🚀 Tech Stack
-
-### 👨‍💻 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=js,php,laravel,nodejs,react,vue,angular" />
-</p>
-
-### 🛠️ Tools & Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,mongodb,bootstrap" />
-</p>
+* 💻 Full Stack Developer with **Multi-Tech Expertise**
+* 🚀 Founder of **Templaara (Envato-like Marketplace)**
+* 🌍 Building **Global SaaS Products**
+* 🎯 Vision: Create a **Tech Empire from India**
+* 🧘 Focused on **Discipline, Growth & Power**
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ Tech Universe
+
+### 🧑‍💻 Frontend
+
+React • Next.js • Vue • Nuxt.js • Angular • JavaScript • Tailwind • Bootstrap
+
+### 🧠 Backend
+
+Node.js • Express • PHP • Laravel • Java Spring Boot
+
+### 🗄️ Database
+
+MongoDB • MySQL • PostgreSQL
+
+### 📱 Mobile
+
+React Native • Flutter
+
+---
+
+## 🚀 What I'm Building
+
+🔥 **Templaara** → Envato-style marketplace
+⚙️ **Scalable SaaS Systems**
+💼 **Business Automation Tools**
+
+---
+
+## 📊 GitHub Power
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=code-sekhar&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=code-sekhar&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=code-sekhar&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-sekhar&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 🧭 Founder Mindset
 
-- 🔥 **nodeJsApi** → REST API using Node.js
-- 💼 **pos system** → Business POS software
-
----
-
-## 🌍 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:sekhar@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+> "I don't chase jobs. I build systems that create jobs."
 
 ---
 
-## 🧠 Vision
+## 🌍 Connect
 
-> “I don’t just write code — I build systems that create impact.”
+📧 [sekhar@gmail.com](mailto:sekhar@gmail.com)
+🔗 LinkedIn (Add later)
 
 ---
+
+⭐ **Code → Product → Startup → Empire**
