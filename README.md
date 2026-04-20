@@ -1,80 +1,77 @@
-<!-- 🔥 Animated Intro -->
-
-<h1 align="center">
-  Hi 👋, I'm Sekhar Chaudhary
-</h1>
-
-<h3 align="center">
-🚀 Full Stack Architect | Startup Founder | Building Templaara
-</h3>
+<h1 align="center">🚀 Sekhar Chaudhary</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Startup+Builder;SaaS+Architect;Tech+Entrepreneur&center=true&width=500&height=45">
+<b>Full Stack Architect • Startup Founder • Building Templaara</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;SaaS+Builder;Startup+Founder;Tech+Entrepreneur&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=code-sekhar&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🧠 Who Am I
+## 🧠 About Me
 
-* 💻 Full Stack Developer with **Multi-Tech Expertise**
+* 💻 Full Stack Developer with multi-tech expertise
 * 🚀 Founder of **Templaara (Envato-like Marketplace)**
-* 🌍 Building **Global SaaS Products**
-* 🎯 Vision: Create a **Tech Empire from India**
-* 🧘 Focused on **Discipline, Growth & Power**
+* 🌍 Building scalable SaaS products
+* 🎯 Goal: Build a global tech brand
+* 🧘 Focused on discipline, growth & powerful execution
 
 ---
 
-## ⚡ Tech Universe
-
-### 🧑‍💻 Frontend
-
-React • Next.js • Vue • Nuxt.js • Angular • JavaScript • Tailwind • Bootstrap
-
-### 🧠 Backend
-
-Node.js • Express • PHP • Laravel • Java Spring Boot
-
-### 🗄️ Database
-
-MongoDB • MySQL • PostgreSQL
-
-### 📱 Mobile
-
-React Native • Flutter
-
----
-
-## 🚀 What I'm Building
-
-🔥 **Templaara** → Envato-style marketplace
-⚙️ **Scalable SaaS Systems**
-💼 **Business Automation Tools**
-
----
-
-## 📊 GitHub Power
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=code-sekhar&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-sekhar&theme=radical&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,nodejs,express,php,laravel,spring,mongodb,mysql,postgresql,flutter,tailwind,bootstrap,git,github" />
 </p>
 
 ---
 
-## 🧭 Founder Mindset
+## 🚀 Current Focus
 
-> "I don't chase jobs. I build systems that create jobs."
+* 🔥 Templaara (Multi-vendor marketplace)
+* ⚙️ SaaS Platforms
+* 💼 Business Automation Tools
 
 ---
 
-## 🌍 Connect
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=code-sekhar&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-sekhar&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 💼 Featured Projects
+
+* 🚀 Templaara – Envato-style marketplace
+* ⚙️ NodeJs API – scalable backend system
+* 💼 POS System – business management software
+
+---
+
+## 🌍 Connect With Me
 
 📧 [sekhar@gmail.com](mailto:sekhar@gmail.com)
-🔗 LinkedIn (Add later)
 
 ---
 
-⭐ **Code → Product → Startup → Empire**
+## 🧭 Vision
+
+> I build products, systems, and brands — not just code.
+
+---
+
+<p align="center">
+⭐ Code → Product → Startup → Empire
+</p>
