@@ -62,7 +62,7 @@
 
 ## 🌍 Connect With Me
 
-📧 [sekhar@gmail.com](mailto:sekhar@gmail.com)
+📧 [sekharchaudhary5@gmail.com](mailto:sekharchaudhary5@gmail.com)
 
 ---
 
