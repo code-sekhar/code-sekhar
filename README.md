@@ -17,7 +17,6 @@
 ## 🧠 About Me
 
 * 💻 Full Stack Developer with multi-tech expertise
-* 🚀 Founder of **Templaara (Envato-like Marketplace)**
 * 🌍 Building scalable SaaS products
 * 🎯 Goal: Build a global tech brand
 * 🧘 Focused on discipline, growth & powerful execution
